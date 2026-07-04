@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that consistency is more important than natural talent. Many people think success comes from being naturally gifted, but I believe steady effort and continuous learning lead to better long-term results.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice improves performance over time
 
 ### Evidence from my life
 
-Add your answer here...
+I started solving coding problems regularly and participated in technical interview preparation.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Asking for feedback helps you improve faster.
 
 ### Evidence from my life
 
-Add your answer here...
+I updated my resume and application answers based on feedback. The changes made my applications stronger and helped me present my skills more effectively.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Small daily efforts lead to big results
 
 ### Evidence from my life
 
-Add your answer here...
+I spent time each day learning AI, Python, and cloud technologies. After several months, I completed projects, earned certifications, and became more confident applying for technical opportunities.
 
 ---
 

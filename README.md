@@ -13,11 +13,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Sonali Shintre |
+| **LinkedIn** | https://www.linkedin.com/in/sonalishintre/ |
+| **Location** | Pune, India|
+| **Background** | Data Engineer  |
+| **Goal** | Be an Data, Colud/Devops Expert |
 
 ---
 
