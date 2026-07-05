@@ -139,9 +139,8 @@ Add your answer here...
 
 ### Public Link
 
-Paste your link here:
 
-`__________________________`
+https://www.linkedin.com/feed/update/urn:li:activity:7414721574693662720/
 
 ---
 
@@ -173,7 +172,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No
 
 ---
 
@@ -199,16 +198,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Deep Work - [\week-01-success-mindset\screenshots\Deepwork.png]
+2. The Pragmatic Programmer - [week-01-success-mindset\screenshots\The_Pragmatic_Programmer.png]
+3. Thinking, Fast and Slow
+4. Mindset: The New Psychology of Success
+5. The Lean Startup
+6. The Psychology of Money
+7. Clean Code - [week-01-success-mindset\screenshots\Clean_code.png]
+8. Zero to One
+9. The Almanack of Naval Ravikant
+10. The Hard Thing About Hard Things
 
 ---
 
@@ -272,7 +271,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes 
 
 ---
 
@@ -298,11 +297,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Managing time so that I spend every day at least 2-3 learning DMI course.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+1 - DMI session
 
 ---
 
