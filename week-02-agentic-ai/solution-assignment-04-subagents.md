@@ -35,19 +35,20 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+Cost analysis is a comparatively simple task for reading through Terraform resource definitions, checking instance sizes/types against known pricing patterns, and flagging. It doesn't require deep reasoning or nuanced judgment calls, just pattern matching against known rules. 
+
+Haiku is faster and far cheaper per token than Sonnet, so it's the efficient choice for a well-scoped, repeatable task like this. Using a lighter model for a lighter-weight job keeps subagent delegation cost-effective you don't want to spend Sonnet-level compute on every specialized helper agent.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
-
+A security auditor's job is to read and report, not to modify infrastructure. Withholding Write access enforces the principle of least privilege the agent can inspect Terraform files, configs, and state, but it can't accidentally, alter the actual infrastructure code while doing its audit. This separation of concerns is a safety guardrail
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+inherit means the subagent uses whatever model the parent/main session is currently running, rather than being locked to one model. This makes sense for a task like writing Terraform code, which benefits from strong reasoning and can vary in complexity sometimes it's a simple resource block, sometimes it's a complex module with dependencies. Rather than hardcoding a model choice, inherit lets the agent scale with whatever model you're using in your main session. keeping behavior consistent with the rest of your workflow instead of creating a mismatch where the "writer" agent might be weaker than the session driving it.
 
 ---
 
@@ -111,7 +112,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Paste your forked repository URL here:
 
-`__________________________`
+https://github.com/sonalishintre/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/solution-assignment-04-subagents.md
 
 ---
 
