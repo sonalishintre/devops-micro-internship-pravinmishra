@@ -22,13 +22,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 Add your screenshot here.
 
-![claude](./week-02-agentic-ai\screenshots\image_1.png)
+![claude](./screenshots/image_1.png)
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
 Add your screenshot here.
 
-![claude](./week-02-agentic-ai\screenshots\image_2.png)
+![claude](./screenshots/image_2.png)
 
 # Task 2 — Fork and Clone the Starter Repository
 
@@ -42,7 +42,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 Add your screenshot here.
 
-![claude](./week-02-agentic-ai\screenshots\image_2.png)
+![claude](./screenshots/image_2.png)
 
 # Task 3 — Observe the Agentic Loop
 
@@ -55,16 +55,16 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
 
-![claude](./week-02-agentic-ai\screenshots\image_4.png)
+![claude](./screenshots/image_4.png)
 
-![claude](./week-02-agentic-ai\screenshots\image_4b.png)
+![claude](./screenshots/image_4b.png)
 
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
 Add your screenshot here.
 
-![claude](./week-02-agentic-ai\screenshots\image_5.png)
+![claude](./screenshots/image_5.png)
 
 # Submission Instructions
 

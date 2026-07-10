@@ -22,10 +22,10 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 Add your screenshot here.
 
-![claude](./week-02-agentic-ai\screenshots\image_2_1a.png)
+![claude](./screenshots/image_2_1a.png)
 
 
-![claude](./week-02-agentic-ai\screenshots\image_2_2.png)
+![claude](./screenshots/image_2_2.png)
 
 # Task 2 — Generate the First Draft with /init
 
@@ -39,11 +39,11 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 Add your screenshot here.
 
-![claude](.\week-02-agentic-ai\screenshots\image_2_3.png)
+![claude](./screenshots/image_2_3.png)
 ---
-![claude](.\week-02-agentic-ai\screenshots\image_2_3a.png)
+![claude](./screenshots/image_2_3a.png)
 ---
-![claude](.\week-02-agentic-ai\screenshots\image_2_3b.png)
+![claude](./screenshots/image_2_3b.png)
 
 
 ---
@@ -58,7 +58,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-![claude](./week-02-agentic-ai\screenshots\calude_new_1.png)
+![claude](./screenshots/calude_new_1.png)
 
 ---
 
@@ -74,11 +74,11 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 Add your screenshot here.
 
-![claude](.\week-02-agentic-ai\screenshots\image_2_3_S3_1.png)
+![claude](./screenshots/image_2_3_S3_1.png)
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-![claude](.\week-02-agentic-ai\screenshots\React_claude.png)
+![claude](./screenshots/React_claude.png)
 
 ---
 
@@ -92,7 +92,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-![claude](./week-02-agentic-ai/screenshots/github.png)
+![claude](./screenshots/github.png)
 
 ---
 
@@ -114,13 +114,13 @@ https://github.com/sonalishintre/Ultimate-Agentic-DevOps-with-Claude-Code
 
 # Completion Checklist
 
-[ ] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
-[ ] Screenshot 2 shows the auto-generated `/init` output <br>
-[ ] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
-[ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
-[ ] Screenshot 5 shows Claude refusing the React request <br>
-[ ] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
-[ ] GitHub repository URL is included in the submission <br>
+[✓] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
+[✓] Screenshot 2 shows the auto-generated `/init` output <br>
+[✓] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
+[✓] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
+[✓] Screenshot 5 shows Claude refusing the React request <br>
+[✓] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
+[✓] GitHub repository URL is included in the submission <br>
 
 ---
 
