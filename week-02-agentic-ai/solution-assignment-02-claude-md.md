@@ -22,7 +22,10 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 Add your screenshot here.
 
----
+![claude](./week-02-agentic-ai\screenshots\image_2_1a.png)
+
+
+![claude](./week-02-agentic-ai\screenshots\image_2_2.png)
 
 # Task 2 — Generate the First Draft with /init
 
@@ -36,6 +39,13 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 Add your screenshot here.
 
+![claude](.\week-02-agentic-ai\screenshots\image_2_3.png)
+---
+![claude](.\week-02-agentic-ai\screenshots\image_2_3a.png)
+---
+![claude](.\week-02-agentic-ai\screenshots\image_2_3b.png)
+
+
 ---
 
 # Task 3 — Customize the CLAUDE.md
@@ -48,7 +58,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+![claude](./week-02-agentic-ai\screenshots\calude_new_1.png)
 
 ---
 
@@ -64,11 +74,11 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 Add your screenshot here.
 
----
+![claude](.\week-02-agentic-ai\screenshots\image_2_3_S3_1.png)
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+![claude](.\week-02-agentic-ai\screenshots\React_claude.png)
 
 ---
 
@@ -82,7 +92,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+![claude](./week-02-agentic-ai/screenshots/github.png)
 
 ---
 
@@ -98,7 +108,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+https://github.com/sonalishintre/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 

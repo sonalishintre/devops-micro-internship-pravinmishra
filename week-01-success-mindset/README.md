@@ -198,8 +198,15 @@ Choose books that improve:
 
 ## Book List
 
-1. Deep Work - [\week-01-success-mindset\screenshots\Deepwork.png]
-2. The Pragmatic Programmer - [week-01-success-mindset\screenshots\The_Pragmatic_Programmer.png]
+1. Deep Work 
+
+  ![book_1](week-01-success-mindset/screenshots/Deepwork.png)
+
+2. The Pragmatic Programmer - 
+
+![book_2](week-01-success-mindset\screenshots\The_Pragmatic_Programmer.png)
+
+
 3. Thinking, Fast and Slow
 4. Mindset: The New Psychology of Success
 5. The Lean Startup
