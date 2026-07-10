@@ -20,7 +20,8 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![claude](./screenshots/assignment_4_Screenshot_1.png)
+
 
 ---
 
@@ -54,13 +55,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![claude](./screenshots/assignment_4_Screenshot_2.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![claude](./screenshots/assignment_4_Screenshot_3.png)
 
 ---
 
@@ -74,13 +75,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![claude](./screenshots/assignment_4_Screenshot_4.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![claude](./screenshots/assignment_4_Screenshot_5.png)
 
 ---
 
@@ -94,7 +95,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![claude](./screenshots/assignment_4_Screenshot_5b.png)
 
 ---
 
@@ -116,16 +117,16 @@ Paste your forked repository URL here:
 
 # Completion Checklist
 
-- [ ] `.claude/agents/` folder contains all 3 agent files
-- [ ] Screenshot 2 shows correct `security-auditor.md` configuration
-- [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed 
-- [ ] Security auditor executed successfully
-- [ ] Cost optimizer executed successfully
-- [ ] Security report is visible with findings
-- [ ] Cost report is visible with recommendations
-- [ ] All required screenshots added
-- [ ] GitHub repo updated with agents
+- [✓] `.claude/agents/` folder contains all 3 agent files
+- [✓] Screenshot 2 shows correct `security-auditor.md` configuration
+- [✓] Screenshot 3 shows correct `cost-optimizer.md` configuration
+- [✓] All 3 written answers completed 
+- [✓] Security auditor executed successfully
+- [✓] Cost optimizer executed successfully
+- [✓] Security report is visible with findings
+- [✓] Cost report is visible with recommendations
+- [✓] All required screenshots added
+- [✓] GitHub repo updated with agents
 
 ---
 
