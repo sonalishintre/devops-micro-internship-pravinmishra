@@ -20,19 +20,33 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account gives access to Amazon Web Services (AWS), including cloud computing, storage, databases, networking, and AI services.
+
+We need it:
+    1. Access AWS services required for hands-on labs and projects.
+    2. Create and manage cloud resources in our own environment.
+    3. Practice real-world cloud concepts instead of only learning theory.
+    4. Deploy applications, automate infrastructure, and gain practical experience with AWS tools.
+    5. Build projects and earn experience that is valuable for cloud and DevOps careers.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier provides free access to selected AWS services within monthly usage limits, allowing users to learn and build applications at no cost. Most Free Tier benefits last for 12 months after creating an AWS account, although some services offer Always Free usage or limited-time free trials.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Here are three common AWS Free Tier services and their free usage limits:
+
+1. Amazon EC2 (Elastic Compute Cloud)
+    Free limit: 750 hours per month of a t2.micro or t3.micro instance (depending on the Region) for 12 months.
+2. Amazon S3 (Simple Storage Service)
+    Free limit: 5 GB of Standard storage, 20,000 GET requests, and 2,000 PUT/COPY/POST/LIST requests per month for 12 months.
+3. Amazon RDS (Relational Database Service)
+    Free limit: 750 hours per month of a db.t3.micro or db.t4g.micro (Region-dependent) single-AZ database instance, plus 20 GB of database storage and 20 GB of backup storage for 12 months.
 
 ---
 
@@ -56,7 +70,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![claude](./screenshots/image_1.png)
 
 ---
 
@@ -70,11 +84,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- [✓] Task 1 answers written in own words
+- [✓] AWS Free Tier account created successfully
+- [✓] Signed in to AWS Management Console
+- [✓] Screenshot of AWS Account page captured (full name visible, no sensitive data)
+- [✓] All required screenshots added to repository
 
 ---
 
